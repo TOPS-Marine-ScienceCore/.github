@@ -5,7 +5,6 @@ This organization is for the developer team.
 To see what we're working on, [read more about the project here.](https://github.com/sciencecore-marine-sciences/.github/blob/main/README.md)
 
 To see what we've finished, check out the public site:
-
 **[ScienceCore: Marine Sciences](https://sciencecore-marine-sciences.github.io)**
 
 
